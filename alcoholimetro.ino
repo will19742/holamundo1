@@ -1,3 +1,6 @@
+//Versión modificada
+//1.1
+
 #include <EEPROM.h>
 const int analogSensor = 0;
 const int ledCount = 10;
